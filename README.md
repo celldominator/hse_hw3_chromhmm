@@ -56,3 +56,5 @@ P.S. Все файлы выдачи находятся в папке, прикр
 ![image](https://user-images.githubusercontent.com/60548614/160284907-3dcc2446-1a84-4c62-9a05-93c1c33d94a9.png)
 
 ## Бонусное задание
+Состояния названы и отображаются на карте
+![image](https://user-images.githubusercontent.com/60548614/160285992-77e83e7d-586f-46d4-8cab-0e3719ec280c.png)
